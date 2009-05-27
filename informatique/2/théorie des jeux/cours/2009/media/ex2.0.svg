@@ -1,0 +1,2492 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2432"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="ex2.0.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2434">
+    <linearGradient
+       id="linearGradient9396">
+      <stop
+         style="stop-color: rgb(245, 121, 0); stop-opacity: 1;"
+         offset="0"
+         id="stop9398" />
+      <stop
+         style="stop-color: rgb(198, 97, 0); stop-opacity: 1;"
+         offset="1"
+         id="stop9400" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9396"
+       id="linearGradient2546"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="23.375"
+       y1="34.75"
+       x2="34.5"
+       y2="36.375" />
+    <linearGradient
+       id="linearGradient14266">
+      <stop
+         style="stop-color: rgb(115, 210, 22); stop-opacity: 1;"
+         offset="0"
+         id="stop14268" />
+      <stop
+         style="stop-color: rgb(91, 167, 17); stop-opacity: 1;"
+         offset="1"
+         id="stop14270" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2440" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2461"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2483"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2485"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2527"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2529"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2531"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2615"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2617"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2619"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2621"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2623"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2625"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2627"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2629"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2711"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2713"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2715"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2717"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2719"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2721"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2723"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient2725"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3963"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3965"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3967"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3969"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3971"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9396"
+       id="linearGradient3977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="23.375"
+       y1="34.75"
+       x2="34.5"
+       y2="36.375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3991"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient3993"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4005"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4159"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4161"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4163"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4165"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9396"
+       id="linearGradient4169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="23.375"
+       y1="34.75"
+       x2="34.5"
+       y2="36.375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4171"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4173"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4179"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4181"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4305"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9396"
+       id="linearGradient4307"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="23.375"
+       y1="34.75"
+       x2="34.5"
+       y2="36.375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4311"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4313"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4315"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4317"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14266"
+       id="linearGradient4381"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="8.125"
+       y1="18.5"
+       x2="19.75"
+       y2="23.625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9396"
+       id="linearGradient4383"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="23.375"
+       y1="34.75"
+       x2="34.5"
+       y2="36.375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9396"
+       id="linearGradient4455"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-10.3711)"
+       x1="23.375"
+       y1="34.75"
+       x2="34.5"
+       y2="36.375" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.77740385"
+     inkscape:cx="469.53471"
+     inkscape:cy="483.86265"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="33">
+    <sodipodi:guide
+       orientation="0,1"
+       position="217.38833,379.2926"
+       id="guide4011" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="376.56388,500.26602"
+       id="guide4183" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="169.79592,428.99196"
+       id="guide4457" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="299.71552,384.61348"
+       id="guide4459" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="405.1948,393.61781"
+       id="guide4461" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="409.69697,391.68831"
+       id="guide4463" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="165.29375,445.71429"
+       id="guide4465" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="304.86085,394.26098"
+       id="guide4467" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="484.94743,293.92703"
+       id="guide4469" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="490.09276,284.9227"
+       id="guide4471" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="535.11441,331.23067"
+       id="guide4473" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="540.25974,284.9227"
+       id="guide4475" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2437">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2742"
+       transform="translate(-63.670221,2.6287226)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(97.05357,550.36218)"
+         id="g2422">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2414"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2416"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2418"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2428);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2420"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2451"
+         transform="translate(111.33928,560.00503)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2453"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2455"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2461);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2457"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2459"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2463"
+         transform="translate(125.98214,569.64789)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2465"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2467"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2483);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2469"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2471"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(140.26785,579.29074)"
+         id="g2473">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2475"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2477"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2479"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2485);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2481"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2487"
+         transform="translate(154.55357,588.93361)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2489"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2491"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2527);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2493"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2495"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(168.83928,598.57646)"
+         id="g2497">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2499"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2501"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2503"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2529);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2505"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(183.48214,608.21932)"
+         id="g2507">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2509"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2511"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2513"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2531);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2515"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(182.97879,602.16918)"
+         id="g2727">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#6e3600;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path9358"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(11.9007,6.00395)" />
+        <path
+           style="fill:#fcaf3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.90072,26.003949 L 27.90072,34.003949 L 27.90072,48.003949 L 15.90072,40.003949 L 15.90072,26.003949 z"
+           id="path9362"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2546);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 29.90072,18.003949 L 41.90072,26.003949 L 27.90072,34.003949 L 15.90072,26.003949 L 29.90072,18.003949 z"
+           id="path9364"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#b65100;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 41.90072,26.003949 L 41.90072,40.003949 L 27.90072,48.003949 L 27.90072,34.003949 L 41.90072,26.003949 z"
+           id="path9366"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2535"
+         transform="translate(79.910713,559.64789)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2537"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2539"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2615);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2541"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2543"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(94.196423,569.29074)"
+         id="g2545">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2547"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2549"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2551"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2617);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2553"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(108.83928,578.9336)"
+         id="g2555">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2557"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2559"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2561"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2619);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2563"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2565"
+         transform="translate(123.12499,588.57645)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2567"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2569"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2621);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2571"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2573"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(137.41071,598.21932)"
+         id="g2575">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2577"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2579"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2581"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2623);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2583"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2585"
+         transform="translate(151.69642,607.86217)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2587"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2589"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2625);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2591"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2593"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2595"
+         transform="translate(166.33928,617.50503)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2597"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2599"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2627);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2601"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2603"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(180.62499,627.14788)"
+         id="g2605">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2607"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2609"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2611"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2629);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2613"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(63.748272,569.74942)"
+         id="g2631">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2633"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2635"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2637"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2711);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2639"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2641"
+         transform="translate(78.033982,579.39227)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2643"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2645"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2713);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2647"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2649"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2651"
+         transform="translate(92.676839,589.03513)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2653"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2655"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2715);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2657"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2659"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(106.96255,598.67798)"
+         id="g2661">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2663"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2665"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2667"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2717);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2669"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2671"
+         transform="translate(121.24827,608.32085)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2673"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2675"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2719);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2677"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2679"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(135.53398,617.9637)"
+         id="g2681">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2683"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2685"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2687"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2721);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2689"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(150.17684,627.60656)"
+         id="g2691">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path2693"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2695"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2697"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient2723);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path2699"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g2701"
+         transform="translate(164.46255,637.24941)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2703"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path2705"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient2725);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path2707"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path2709"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g3721"
+       transform="translate(72.74235,1.1050326)">
+      <g
+         id="g3723"
+         transform="translate(97.05357,550.36218)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path3725"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path3727"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient3963);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path3729"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path3731"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         transform="translate(111.33928,560.00503)"
+         id="g3733"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path3735"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3737"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3739"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient3965);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3741"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(125.98214,569.64789)"
+         id="g3743"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path3745"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3747"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3749"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient3967);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3751"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         id="g3753"
+         transform="translate(140.26785,579.29074)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path3755"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path3757"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient3969);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path3759"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path3761"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         transform="translate(154.55357,588.93361)"
+         id="g3763"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path3765"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3767"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3769"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient3971);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3771"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         id="g3773"
+         transform="translate(168.83928,598.57646)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path3775"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path3777"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient3973);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path3779"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path3781"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g3783"
+         transform="translate(183.48214,608.21932)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path3785"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path3787"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient3975);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path3789"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path3791"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g3793"
+         transform="translate(182.97879,602.16918)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(11.9007,6.00395)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path3795"
+           style="fill:#6e3600;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3797"
+           d="M 15.90072,26.003949 L 27.90072,34.003949 L 27.90072,48.003949 L 15.90072,40.003949 L 15.90072,26.003949 z"
+           style="fill:#fcaf3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3799"
+           d="M 29.90072,18.003949 L 41.90072,26.003949 L 27.90072,34.003949 L 15.90072,26.003949 L 29.90072,18.003949 z"
+           style="fill:url(#linearGradient3977);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3801"
+           d="M 41.90072,26.003949 L 41.90072,40.003949 L 27.90072,48.003949 L 27.90072,34.003949 L 41.90072,26.003949 z"
+           style="fill:#b65100;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(151.69642,607.86217)"
+         id="g3853"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path3855"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3857"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3859"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient3989);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3861"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(166.33928,617.50503)"
+         id="g3863"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path3865"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3867"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3869"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient3991);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3871"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         id="g3873"
+         transform="translate(180.62499,627.14788)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path3875"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path3877"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient3993);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path3879"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path3881"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g3933"
+         transform="translate(135.53398,617.9637)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path3935"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path3937"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4005);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path3939"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path3941"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g3943"
+         transform="translate(150.17684,627.60656)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path3945"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path3947"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4007);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path3949"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path3951"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         transform="translate(164.46255,637.24941)"
+         id="g3953"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path3955"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3957"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3959"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4009);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path3961"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(178.87871,2.6287226)"
+       id="g4013">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g4035"
+         transform="translate(125.98214,569.64789)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4037"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4039"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4159);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4041"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4043"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(140.26785,579.29074)"
+         id="g4045">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4047"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4049"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4051"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4161);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4053"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g4055"
+         transform="translate(154.55357,588.93361)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4057"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4059"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4163);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4061"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4063"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(168.83928,598.57646)"
+         id="g4065">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4067"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4069"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4071"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4165);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4073"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(183.48214,608.21932)"
+         id="g4075">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4077"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4079"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4081"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4167);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4083"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(182.97879,602.16918)"
+         id="g4085">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#6e3600;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4087"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(11.9007,6.00395)" />
+        <path
+           style="fill:#fcaf3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.90072,26.003949 L 27.90072,34.003949 L 27.90072,48.003949 L 15.90072,40.003949 L 15.90072,26.003949 z"
+           id="path4089"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4169);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 29.90072,18.003949 L 41.90072,26.003949 L 27.90072,34.003949 L 15.90072,26.003949 L 29.90072,18.003949 z"
+           id="path4091"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#b65100;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 41.90072,26.003949 L 41.90072,40.003949 L 27.90072,48.003949 L 27.90072,34.003949 L 41.90072,26.003949 z"
+           id="path4093"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g4095"
+         transform="translate(151.69642,607.86217)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4097"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4099"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4171);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4101"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4103"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g4105"
+         transform="translate(166.33928,617.50503)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4107"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4109"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4173);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4111"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4113"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(180.62499,627.14788)"
+         id="g4115">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4117"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4119"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4121"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4175);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4123"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(150.17684,627.60656)"
+         id="g4135">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4137"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4139"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4141"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4179);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4143"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         id="g4145"
+         transform="translate(164.46255,637.24941)">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4147"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4149"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4181);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4151"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4153"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g4185"
+       transform="translate(259.52013,2.6287226)">
+      <g
+         id="g4227"
+         transform="translate(183.48214,608.21932)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4229"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4231"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4305);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4233"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4235"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g4237"
+         transform="translate(182.97879,602.16918)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(11.9007,6.00395)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4239"
+           style="fill:#6e3600;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4241"
+           d="M 15.90072,26.003949 L 27.90072,34.003949 L 27.90072,48.003949 L 15.90072,40.003949 L 15.90072,26.003949 z"
+           style="fill:#fcaf3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4243"
+           d="M 29.90072,18.003949 L 41.90072,26.003949 L 27.90072,34.003949 L 15.90072,26.003949 L 29.90072,18.003949 z"
+           style="fill:url(#linearGradient4307);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4245"
+           d="M 41.90072,26.003949 L 41.90072,40.003949 L 27.90072,48.003949 L 27.90072,34.003949 L 41.90072,26.003949 z"
+           style="fill:#b65100;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(166.33928,617.50503)"
+         id="g4257"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4259"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4261"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4263"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4311);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4265"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4267"
+         transform="translate(180.62499,627.14788)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4269"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4271"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4313);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4273"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4275"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g4277"
+         transform="translate(150.17684,627.60656)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4279"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(-2.625,-9.99605)" />
+        <path
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           id="path4281"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4315);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           id="path4283"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           id="path4285"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         transform="translate(164.46255,637.24941)"
+         id="g4287"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4289"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4291"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4293"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4317);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4295"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(307.45972,21.708953)"
+       id="g4319">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(183.48214,608.21932)"
+         id="g4321">
+        <path
+           transform="translate(-2.625,-9.99605)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4323"
+           style="fill:#315b09;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4325"
+           d="M 1.375,10.003949 L 13.375,18.003949 L 13.375,32.003949 L 1.375,24.003949 L 1.375,10.003949 z"
+           style="fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4327"
+           d="M 15.375,2.0039485 L 27.375,10.003949 L 13.375,18.003949 L 1.375,10.003949 L 15.375,2.0039485 z"
+           style="fill:url(#linearGradient4381);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4329"
+           d="M 27.375,10.003949 L 27.375,24.003949 L 13.375,32.003949 L 13.375,18.003949 L 27.375,10.003949 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         transform="translate(182.97879,602.16918)"
+         id="g4331">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="1.3734423"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           style="fill:#6e3600;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="path4333"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           transform="translate(11.9007,6.00395)" />
+        <path
+           style="fill:#fcaf3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 15.90072,26.003949 L 27.90072,34.003949 L 27.90072,48.003949 L 15.90072,40.003949 L 15.90072,26.003949 z"
+           id="path4335"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:url(#linearGradient4383);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 29.90072,18.003949 L 41.90072,26.003949 L 27.90072,34.003949 L 15.90072,26.003949 L 29.90072,18.003949 z"
+           id="path4337"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#b65100;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 41.90072,26.003949 L 41.90072,40.003949 L 27.90072,48.003949 L 27.90072,34.003949 L 41.90072,26.003949 z"
+           id="path4339"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g4431"
+       transform="translate(343.20738,21.708953)">
+      <g
+         id="g4443"
+         transform="translate(182.97879,602.16918)"
+         inkscape:export-filename="/home/amirouche/Desktop/Théorie des jeux/img/ex1.1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           transform="translate(11.9007,6.00395)"
+           d="M 17.84375,10.625 C 17.655614,10.650124 17.474727,10.713966 17.3125,10.8125 L 3.3125,18.8125 C 2.8878747,19.057319 2.6258799,19.509855 2.625,20 L 2.625,34 C 2.6234469,34.466549 2.85882,34.901989 3.25,35.15625 L 15.25,43.15625 C 15.685013,43.436655 16.240712,43.448735 16.6875,43.1875 L 30.6875,35.1875 C 31.112125,34.942681 31.37412,34.490145 31.375,34 L 31.375,20 C 31.376553,19.533451 31.14118,19.098011 30.75,18.84375 L 18.75,10.84375 C 18.482656,10.667413 18.162098,10.590037 17.84375,10.625 z"
+           id="path4445"
+           style="fill:#6e3600;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           inkscape:original="M 18 12 L 4 20 L 4 34 L 16 42 L 30 34 L 30 20 L 18 12 z "
+           inkscape:radius="1.3734423"
+           sodipodi:type="inkscape:offset" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4447"
+           d="M 15.90072,26.003949 L 27.90072,34.003949 L 27.90072,48.003949 L 15.90072,40.003949 L 15.90072,26.003949 z"
+           style="fill:#fcaf3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4449"
+           d="M 29.90072,18.003949 L 41.90072,26.003949 L 27.90072,34.003949 L 15.90072,26.003949 L 29.90072,18.003949 z"
+           style="fill:url(#linearGradient4455);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path4451"
+           d="M 41.90072,26.003949 L 41.90072,40.003949 L 27.90072,48.003949 L 27.90072,34.003949 L 41.90072,26.003949 z"
+           style="fill:#b65100;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="587.85406"
+       y="673.06958"
+       id="text4477"><tspan
+         sodipodi:role="line"
+         id="tspan4479"
+         x="587.85406"
+         y="673.06958">meurt !</tspan></text>
+  </g>
+</svg>

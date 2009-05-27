@@ -1,0 +1,402 @@
+%!PS-Adobe-3.0
+%%Creator: a2ps version 4.6.1
+%%CreationDate: Mon Sep 19 14:27:05 2005
+%%Pages: (atend)
+%%DocumentFonts: Courier Courier-Oblique Courier-BoldOblique Times-Roman Courier-Bold Helvetica Helvetica-Bold Symbol
+%%EndComments
+% Copyright (c) 1993, 1994, Miguel Santana, M.Santana@frgu.bull.fr
+
+/$a2psdict 100 dict def
+$a2psdict begin
+
+% General macros.
+/xdef {exch def} bind def
+/getfont {exch findfont exch scalefont} bind def
+
+% Set up ISO Latin 1 character encoding
+/reencodeISO {
+	dup dup findfont dup length dict begin
+	{ 1 index /FID ne { def }{ pop pop } ifelse
+	} forall
+	/Encoding ISOLatin1Encoding def
+	currentdict end definefont
+} def
+/Helvetica-Bold reencodeISO def
+/Helvetica reencodeISO def
+/Courier reencodeISO def
+/Courier-Bold reencodeISO def
+/Courier-Oblique reencodeISO def
+/Courier-BoldOblique reencodeISO def
+/Times-Roman reencodeISO def
+
+% Create Courier backspace font
+/backspacefont {
+    /Courier findfont dup length dict begin
+	{ % forall
+	    1 index /FID eq { pop pop } { def } ifelse
+	} forall
+	currentdict /UniqueID known { % if
+	    /UniqueID UniqueID 16#800000 xor def
+	} if
+	CharStrings length 1 add dict begin
+	    CharStrings { def } forall
+	    /backspace { -600 0 0 0 0 0 setcachedevice } bind def
+	    currentdict
+	end
+	/CharStrings exch def
+	/Encoding Encoding 256 array copy def
+	Encoding 8 /backspace put
+	currentdict
+    end
+    definefont pop
+} bind def
+
+% FUNCTIONS
+
+% Function filename: Initialize file printing.
+/fn
+{ /filenm xdef
+  /filenmwidth filenm stringwidth pop def
+  /filenmfont
+       filenmwidth fns gt
+       {
+	       filenmfontname
+	       fnfs fns mul filenmwidth div
+	     getfont
+       }
+       { sfnf }
+     ifelse
+  def
+} bind def
+
+% Function header: prints page header. no page
+% is passed as argument.
+/hp
+  { x sd get  y sd get hs sub 1 add  moveto
+    df setfont
+    gsave
+      x sd get y sd get moveto
+      0 hs 2 div neg rmoveto 
+      hs setlinewidth
+      0.95 setgray
+      pw 0 rlineto stroke
+    grestore
+    gsave
+      dfs hm rmoveto
+      d show				% date/hour
+    grestore
+    gsave
+      pnum cvs pop				% page pop up
+        pw (Page 999) stringwidth pop sub
+        hm
+	  rmoveto
+      (Page ) show pnum show		% page number
+    grestore
+    empty pnum copy pop
+    gsave
+      filenmfont setfont
+         fns filenm stringwidth pop sub 2 div dw add
+          bm 2 mul 
+        add 
+        hm
+      rmoveto
+        filenm show			% file name
+      grestore
+    } bind def
+
+% Function border: prints border page
+/border 
+{ x sd get y sd get moveto
+  gsave				% print four sides
+    0.7 setlinewidth		% of the square
+    pw 0 rlineto
+    0 ph neg rlineto
+    pw neg 0 rlineto
+    closepath stroke
+  grestore
+} bind def
+
+% Function hborder: completes border of the header.
+/hborder 
+{ gsave
+	0.7 setlinewidth
+	0 hs neg rmoveto
+	pw 0 rlineto
+	stroke
+  grestore
+} bind def
+
+% Function sheetnumber: prints the sheet number.
+/sn
+    { snx sny moveto
+      df setfont
+      pnum cvs
+	  dup stringwidth pop (0) stringwidth pop sub neg 0 rmoveto show
+      empty pnum copy pop
+    } bind def
+
+% Function loginprint: prints the login id of the requestor.
+/lgp
+    { lx ly moveto
+      df setfont
+      dup stringwidth pop neg 0 rmoveto show
+    } bind def
+
+% Function current_date: prints the current date.
+/cd
+    { dx dy moveto
+      df setfont
+      (Printed: ) show
+      td show
+    } bind def
+
+% Function filename_footer: prints the file name at bottom of page.
+/fnf
+    { fnx fny moveto
+      df setfont
+      footer center show
+    } bind def
+
+% Function center: centers text.
+/center
+    { dup stringwidth pop
+      2 div neg 0 rmoveto
+    } bind def
+
+% Function s: print a source line
+/s  { show
+      /y0 y0 bfs sub def
+      x0 y0 moveto
+    } bind def
+
+% Functions b, st, i, bi, t, sy: change to bold, standard, italic, bold-italic, times and symbol fonts
+/b  { show
+      bdf setfont
+    } bind def
+/st { show
+      bf setfont
+    } bind def
+/i  { show
+      itf setfont
+    } bind def
+/bi  { show
+      bif setfont
+    } bind def
+/t  { show
+      tf setfont
+    } bind def
+/sy { show
+      sf setfont
+    } bind def
+
+ % Function T(ab), jumps to the n-th tabulation in the current line
+/T { exch show
+       cw 8 mul mul sx cw mul add x0 add y0 moveto     } bind def
+
+% Strings used to make easy printing numbers
+/pnum 12 string def
+/empty 12 string def
+
+% Global initializations
+
+/CourierBack backspacefont
+/filenmfontname /Helvetica-Bold def
+/inch {72 mul} bind def
+
+%
+%% Meaning of some variables and functions (coded names)
+%
+% Variables from 'outside'
+%	twp:		twinpages?
+%	sd:		sheet side
+%	l:		line counter
+%	c:		column counter
+%	d:		date
+%	td:		current date (for today)
+%	lg:		login name
+% Functions
+%	fn:		filename printing function
+%	sn:		sheetnumber printing function
+%	cd:		current date printing function
+%	fnf:		filename footer printing function
+%	lgp:		login printing function
+%	hp:		header printing function
+% Coordinates
+%	x, y:		the logical page
+%	snx, sny:	the sheet number
+%	dx, dy:		the date
+%	lx, ly:		the login
+%	fnx, fny:	the filename (footer)
+%	scx:		x coordinate for the sheet center
+% Font sizes
+%	fnfs:		filename
+%	bfs:		body
+%	dfs:		date
+% Fonts
+%	df:		date
+%	bf:		body
+%	bdf:		bold
+%	itf:		italic
+%	tf:		times
+%	sf:		symbol
+%	sfnf:		standard filename
+% Widths and heigths
+%	cw:		a Courier char
+%	dw:		date
+%	pw, ph:		page
+%	sw, sh:		sheet
+% Margins
+%	hm:		header
+%	tm:		top
+%	bm:		body
+%	rm:		right
+%	lm:		left
+%	hs:		header size
+%	fns:		filename size
+
+% Initialize page description variables.
+/x0 0 def
+/y0 0 def
+/sh 11.64 inch def
+/sw 8.27 inch def
+/margin 1.4 inch def
+/rm margin 3 div def
+/lm margin 2 mul 3 div def
+/d () def
+/td (Sep 19 2005 14:27) def
+/lg (Printed by Denis LAPOIRE from tanit) def
+%%EndProlog
+
+/docsave save def
+%%Page: 1 1
+/pagesave save def
+/twp true def
+/fnfs 11 def
+/dfs fnfs 0.8 mul def
+/df /Helvetica dfs getfont def
+/dw df setfont td stringwidth pop def
+/sfnf filenmfontname fnfs getfont def
+/hm fnfs 0.25 mul def
+/hs 0.22 inch def
+/bfs 6.8 def
+/bdf /Courier-Bold bfs getfont def
+/bm bfs 0.7 mul def
+/bf /CourierBack bfs getfont def
+/cw bf setfont (0) stringwidth pop def 
+/itf /Courier-Oblique bfs getfont def
+/bif /Courier-BoldOblique bfs getfont def
+/tf /Times-Roman bfs getfont def
+/sf /Symbol bfs getfont def
+/l 69 def
+/c 89 def
+/pw
+   bf setfont (0) stringwidth pop c mul bm dup add add
+   def
+/ph
+   bfs l mul bm dup add add hs add
+   def
+/fns
+      pw
+      fnfs 4 mul dw add (Page 999) stringwidth pop add
+    sub
+  def
+/tm margin twp {3} {2} ifelse div def
+/sd 0 def
+/y [ rm ph add bm add
+          dup ] def
+/sny tm dfs sub def
+/snx sh tm dfs add sub def
+/dy sny def
+/dx tm dfs add def
+/x [ tm			% left page
+          dup 2 mul pw add	% right page
+        ] def
+/scx sh 2 div def
+/fny dy def
+/fnx scx def
+/ly fnfs 2 div y sd get add def
+/lx snx def
+/sx 1 def
+/d (Sep 19 2005 14:25) def
+( stats.txt ) fn
+/footer filenm def
+sw 0 translate
+90 rotate
+1 hp
+border
+hborder
+fnf
+/x0 x 0 get bm add def
+/y0 y 0 get bm bfs add hs add sub def
+x0 y0 moveto
+bf setfont
+( Lettres:) s
+( 17.05% \(e\)) s
+(  8.28% \(i\)) s
+(  8.25% \(s\)) s
+(  7.60% \(a\)) s
+(  7.50% \(t\)) s
+(  6.98% \(n\)) s
+(  6.46% \(r\)) s
+(  6.41% \(u\)) s
+(  5.58% \(l\)) s
+(  5.40% \(o\)) s
+(  3.30% \(p\)) s
+(  3.24% \(d\)) s
+(  3.08% \(m\)) s
+(  2.99% \(c\)) s
+(  1.43% \(v\)) s
+(  1.14% \(j\)) s
+(  1.11% \(q\)) s
+(  1.02% \(b\)) s
+(  0.88% \(f\)) s
+(  0.83% \(g\)) s
+(  0.79% \(h\)) s
+(  0.37% \(x\)) s
+(  0.20% \(y\)) s
+(  0.11% \(z\)) s
+( ) s
+( Digrammes: les plus frequents \(au moins 1%\)) s
+(  3.05% \(es\) |  1.37% \(se\)) s
+(  2.42% \(le\) |  1.34% \(ne\)) s
+(  1.99% \(en\) |  1.31% \(nt\)) s
+(  1.86% \(et\) |  1.24% \(il\)) s
+(  1.85% \(ai\) |  1.12% \(ur\)) s
+(  1.80% \(re\) |  1.11% \(ce\)) s
+(  1.66% \(it\) |  1.08% \(qu\)) s
+(  1.59% \(de\) |  1.03% \(me\)) s
+(  1.58% \(er\) |  1.03% \(ep\)) s
+(  1.51% \(on\) |  1.01% \(eu\)) s
+(  1.45% \(ou\) |  1.00% \(la\)) s
+(  1.42% \(te\) |  1.00% \(an\)) s
+(  1.40% \(is\)) s
+( ) s
+( Trigrammes: les 15 plus frequents) s
+(  0.777% \(les\)) s
+(  0.679% \(ais\)) s
+(  0.673% \(ent\)) s
+(  0.566% \(ait\)) s
+(  0.558% \(est\)) s
+(  0.541% \(que\)) s
+(  0.496% \(des\)) s
+(  0.434% \(eti\)) s
+(  0.426% \(our\)) s
+(  0.423% \(ese\)) s
+(  0.421% \(lle\)) s
+(  0.401% \(nce\)) s
+(  0.392% \(eur\)) s
+(  0.390% \(ien\)) s
+(  0.384% \(ede\)) s
+( ) s
+/sd 1 def
+/sd 0 def
+1 sn
+lg lgp
+pagesave restore
+showpage
+%%Page: 2 2
+showpage
+
+%%Trailer
+%%Pages: 2
+docsave restore end
